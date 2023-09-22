@@ -1,6 +1,5 @@
-for i in range(1,100):
-    print("МИУ МИУ")    
-
+for i in range(100):
+    print("A")
 
 
 
